@@ -1,0 +1,15 @@
+docker pull ubuntu
+docker run -it ubuntu
+apt update
+apt install git -y
+========================
+ssh connet in local PC
+
+
+copy ssh id address
+go to local our system
+
+
+ssh-keygen
+then paste ssh user from docker playground ip
+ssh ip172-18-0-93-cdpn9j791rrg00bv5pag@direct.labs.play-with-docker.com

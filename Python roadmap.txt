@@ -1,0 +1,7 @@
+python courses
+=============
+1. Core python
+
+2. Frameworks
+==============
+Django

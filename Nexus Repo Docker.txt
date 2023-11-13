@@ -1,0 +1,11 @@
+
+nexus reporti
+http://192.168.255.128:8081/nexus/#view-repositories;thirdparty~browsestorage
+admin
+admin123
+
+http://192.168.255.128:8082/nexus/#welcome
+
+nexus-credentials
+
+Login to Nexus OSS
